@@ -1,0 +1,199 @@
+{
+  "slug": "primeiro-video-ia",
+  "title": "Seu Primeiro Vídeo com IA em 24 Horas",
+  "description": "Da ideia a um vídeo curto revisado, com imagens de referência, geração, edição e voz.",
+  "modules": [
+    {
+      "title": "Uma ideia que cabe no primeiro vídeo",
+      "promise": "Defina um resultado pequeno, escolha uma estrutura e escreva quatro linhas que podem virar cenas.",
+      "topics": [
+        {
+          "title": "Escopo: o tamanho da primeira entrega",
+          "concept": "Escopo é o limite do trabalho. Nosso exemplo é um convite de 15 a 20 segundos para a cafeteria fictícia Ponto da Pausa. O público são vizinhos que procuram um intervalo tranquilo. O vídeo terá quatro planos: uma xícara, um detalhe do lanche, o ambiente e um convite. Plano é um trecho contínuo, sem corte.",
+          "why": "Um vídeo simples permite perceber onde a imagem mudou ou a mensagem ficou confusa. O prazo de 24 horas é um desafio de organização. Conta disponível, créditos, fila de geração e tempo de revisão podem exigir outro dia.",
+          "practice": "Escreva o que entrará e o que ficará para um segundo vídeo.",
+          "caution": "Não prometa um resultado profissional ou um prazo garantido na primeira tentativa."
+        },
+        {
+          "title": "Controle antes de espetáculo",
+          "concept": "Um resultado utilizável depende de decisões que se repetem: produto reconhecível, luz parecida e uma ação por plano. Mudar cenário, rosto e câmera ao mesmo tempo aumenta o que você precisa conferir. Neste curso, a sequência é referência, imagem inicial, movimento e montagem. A revisão acompanha cada etapa.",
+          "why": "Uma transição vistosa não corrige uma alça que desapareceu. Escolher primeiro o que não pode mudar facilita decidir se uma geração serve. Registre também um teto de tentativas antes de gastar créditos.",
+          "practice": "Liste três características que devem permanecer em todos os planos.",
+          "caution": "O nome do modelo sozinho não comprova que um vídeo está bom."
+        },
+        {
+          "title": "Cinco caminhos para uma mensagem",
+          "concept": "Antes e depois mostra uma mudança. Produto em destaque aproxima o olhar de um objeto. Ambiente, detalhe e convite apresenta um lugar. Problema e solução organiza uma dificuldade concreta. A versus B compara duas opções pelo mesmo critério. Esses caminhos são estruturas de comunicação, não fórmulas que garantem alcance.",
+          "why": "A cafeteria tem fotos do espaço e do café. Ambiente, detalhe e convite aproveita esses materiais. Uma transformação complexa exigiria mostrar uma mudança que talvez não aconteça de verdade. Escolher pelo material reduz invenções desnecessárias.",
+          "practice": "Esboce uma frase para cada uma das cinco estruturas usando o mesmo negócio.",
+          "caution": "Antes e depois não deve atribuir ao produto um efeito que ele não demonstra."
+        },
+        {
+          "title": "Escolher pelo que você pode mostrar",
+          "concept": "Pergunte que prova cada estrutura exige. Uma comparação pede condições parecidas. Um problema e solução pede uma solução visível. Produto em destaque pede detalhes legíveis. Anote o material já disponível e o que falta. A primeira produção funciona melhor com poucas lacunas.",
+          "why": "Escolher uma ideia pelo efeito mais chamativo pode exigir recursos que você ainda não tem. Um critério de viabilidade transforma inspiração em uma decisão. Você pode guardar as demais estruturas para os próximos projetos.",
+          "practice": "Ordene as ideias da mais simples à mais difícil para os materiais de hoje.",
+          "caution": "Uma ilustração gerada não comprova desempenho real, sabor ou satisfação de clientes."
+        },
+        {
+          "title": "Gancho, valor e convite",
+          "concept": "Gancho é a abertura que dá uma razão para continuar. Pode ser uma pergunta concreta, um detalhe curioso ou uma situação reconhecível. No nosso exemplo: Precisa de uma pausa? Depois mostramos café e lanche, apresentamos o ambiente e convidamos a conhecer o espaço. Cada linha tem uma função diferente.",
+          "why": "A abertura deve combinar com o que vem depois. Prometer uma surpresa que o vídeo não entrega quebra a expectativa. Os primeiros três segundos são um limite de planejamento deste exercício, não uma garantia de retenção.",
+          "practice": "Crie três aberturas honestas para o mesmo vídeo e escolha a mais fácil de mostrar.",
+          "caution": "Evite prometer cura, renda, popularidade ou resultado que a imagem não demonstra."
+        },
+        {
+          "title": "Uma linha, uma imagem possível",
+          "concept": "Leia as frases em voz alta e meça o tempo com o relógio do celular. Corte repetições antes de acelerar a fala. Ao lado de cada frase, escreva o que veremos. Uma xícara fumegante é filmável ou gerável. Uma experiência inesquecível ainda precisa ser traduzida em uma situação visível.",
+          "why": "O assistente de IA pode sugerir versões, mas você confirma as informações. Peça quatro linhas, um público e uma duração. Depois revise palavra por palavra. Não aceite endereço, preço ou horário inventado pelo assistente.",
+          "practice": "Peça a um assistente três versões curtas do roteiro, proibindo dados inventados. Compare com sua versão.",
+          "caution": "A leitura cronometrada é melhor evidência de duração que uma estimativa automática."
+        }
+      ]
+    },
+    {
+      "title": "Referências antes do movimento",
+      "promise": "Prepare imagens legíveis, fixe a aparência do projeto e distribua o roteiro em quatro cenas.",
+      "topics": [
+        {
+          "title": "O objeto precisa ser reconhecível",
+          "concept": "Referência é a imagem usada para orientar a aparência. Para um produto real, comece com uma foto sua. Coloque o objeto perto de uma janela e escolha um fundo simples. Mostre as partes importantes sem cortar as bordas. Confira se reflexos, sombras ou dedos escondem detalhes.",
+          "why": "Uma foto clara não garante fidelidade, mas permite comparar. Se a alça não aparece na referência, fica difícil reclamar que o gerador a inventou. A escolha do ângulo já faz parte do controle.",
+          "practice": "Fotografe o mesmo objeto de dois ângulos e escolha aquele que mostra melhor sua forma.",
+          "caution": "Não use uma imagem inventada para afirmar que ela reproduz fielmente um produto real."
+        },
+        {
+          "title": "Imagem inicial é uma decisão de cena",
+          "concept": "Imagem inicial, também chamada de quadro inicial, é a imagem da qual o movimento parte. Ela pode ser uma foto ou uma imagem gerada e revisada. Já deve mostrar o enquadramento desejado. No exercício, use formato vertical e deixe uma pequena margem ao redor do produto.",
+          "why": "Uma composição muito apertada perde partes do objeto quando é recortada. Faça a conferência na galeria do celular antes de enviar. Guarde o original e uma cópia escolhida com nome fácil de reconhecer.",
+          "practice": "Faça uma cópia vertical e confira se as partes importantes continuam inteiras.",
+          "caution": "Não confunda a foto de referência com o arquivo final do vídeo. São entregas diferentes."
+        },
+        {
+          "title": "Continuidade: reconhecer o mesmo mundo",
+          "concept": "Continuidade é a sensação de que as cenas pertencem ao mesmo projeto. Cor, roupa, objeto, luz e ambiente ajudam nessa leitura. Escolha três características fixas. No exemplo: xícara verde-petróleo, mesa de madeira e luz de janela. Depois declare o que pode mudar, como a distância da câmera.",
+          "why": "Sem essa separação, você pode aprovar imagens bonitas que não combinam entre si. O estilo também deve permanecer claro. Fotografia, desenho e animação estilizada têm aparências diferentes. Misturá-las pede uma intenção, não apenas o resultado que saiu.",
+          "practice": "Monte uma ficha visual com uma referência e três características que devem se repetir.",
+          "caution": "Animação estilizada pode simplificar formas, mas não elimina erros de continuidade."
+        },
+        {
+          "title": "Personagem é uma escolha, não obrigação",
+          "concept": "Um vídeo de produto pode funcionar sem mostrar rostos. Para este primeiro projeto, mãos ou objetos bastam. Se houver personagem, use um adulto fictício ou alguém que autorizou o uso da imagem. Dê um nome de trabalho e descreva roupa, cabelo e função na cena.",
+          "why": "O nome ajuda a organizar arquivos; não garante que o gerador preserve a pessoa. Sempre compare as imagens. Evitar personagens na estreia reduz a quantidade de detalhes que você precisa controlar e revisar.",
+          "practice": "Crie uma ficha de personagem para um próximo vídeo, sem gerar imagens nesta etapa.",
+          "caution": "Não apresente uma pessoa fictícia como cliente real ou autora de um depoimento verdadeiro."
+        },
+        {
+          "title": "Storyboard: a sequência antes do vídeo",
+          "concept": "Storyboard é um conjunto de quadros que mostra a ordem das cenas. Desenhe quatro retângulos verticais no papel. Dentro deles, represente xícara, lanche, ambiente e convite. Use formas simples. Abaixo de cada quadro, escreva a frase correspondente e a duração aproximada.",
+          "why": "O rascunho revela se duas cenas repetem a mesma informação. Também permite conferir se o convite terá espaço para texto. Você ainda pode alterar a ordem sem gastar uma geração de vídeo.",
+          "practice": "Troque a posição de dois quadros e observe se a mensagem ficou mais clara.",
+          "caution": "O storyboard é um plano de produção. Não é um conjunto de vídeos já gerados."
+        },
+        {
+          "title": "Uma ideia por plano",
+          "concept": "Um plano começa e termina antes do próximo corte. Para a primeira tentativa, escolha uma ação pequena em cada um. Vapor subindo, câmera se aproximando ou uma mão ajustando o prato são ações distintas. Misturar todas no mesmo pedido aumenta o trabalho de revisão.",
+          "why": "Distribua quinze a vinte segundos pelos quatro planos. As durações são metas de edição: você pode gerar um clipe maior e aproveitar apenas um trecho. Confira a soma e reserve tempo suficiente para ler o convite.",
+          "practice": "Marque qual plano pode ficar mais curto sem perder a informação principal.",
+          "caution": "Quadro inicial de vídeo e quadro-chave de animação são usos diferentes da palavra keyframe. Aqui falamos da imagem de partida."
+        }
+      ]
+    },
+    {
+      "title": "Da imagem a um movimento conferível",
+      "promise": "Confira a ferramenta disponível, gere um plano simples e revise cada arquivo antes de montar.",
+      "topics": [
+        {
+          "title": "Ferramenta, modelo e recurso são coisas diferentes",
+          "concept": "Flow é uma ferramenta que reúne recursos de criação. Veo é uma família de modelos de vídeo disponível nesse ambiente. Kling também oferece geração a partir de imagens. O curso usa imagem para vídeo: você fornece uma imagem inicial e descreve o movimento. Os nomes e opções dependem da versão disponível.",
+          "why": "Não existe aqui um vencedor universal entre modelos. Escolha pelo acesso que você já tem, pelo formato necessário e pelo teste do seu plano. Compare a qualidade com o mesmo material antes de trocar de ferramenta.",
+          "practice": "Localize imagem para vídeo na ferramenta disponível e anote o modelo selecionado.",
+          "caution": "Não suponha gratuidade. Planos, regiões, limites e custos podem mudar."
+        },
+        {
+          "title": "Uma ficha antes do botão de gerar",
+          "concept": "No Flow, abra um projeto e procure Vídeo e Quadros, ou Video e Frames. Adicione a imagem inicial. Confira formato, duração, quantidade de saídas, modelo e custo informado. No Kling, procure Image to Video e os controles equivalentes. Esta aula termina na conferência; a geração vem na próxima.",
+          "why": "Para este projeto, escolha vertical, também chamado 9:16. Uma saída por tentativa facilita controlar o gasto. Multiplique o custo exibido pelo teto de tentativas. Não confirme se o total ultrapassar o limite que você decidiu.",
+          "practice": "Compare duas configurações sem gerar e anote qual cabe no seu teto.",
+          "caution": "O curso ensina o caminho; não compra créditos nem garante acesso à sua conta."
+        },
+        {
+          "title": "Sujeito, ação e câmera",
+          "concept": "Escreva o sujeito e uma ação possível. Para uma xícara: vapor sobe suavemente. Depois defina a câmera: parada, sem aproximação. Por fim, indique o que precisa permanecer: forma, cor e posição. Esse pedido é uma hipótese a testar. Palavras não garantem obediência do gerador.",
+          "why": "Começar com movimento pequeno facilita enxergar mudanças indevidas. Uma câmera girando exige revelar partes que a imagem não mostra. Quando o objeto precisa ser fiel, esse movimento aumenta o risco de inventar sua forma.",
+          "practice": "Escreva dois pedidos para a mesma imagem, mudando apenas a ação.",
+          "caution": "Evite pedir ações incompatíveis com o que aparece na referência."
+        },
+        {
+          "title": "Gerar é só o começo da conferência",
+          "concept": "Use sua imagem inicial e a configuração da aula anterior. Envie o pedido e aguarde. Salve o vídeo pela opção de baixar ou salvar da ferramenta. Abra o arquivo e assista inteiro. Pause no início, no meio e no fim para conferir os detalhes fixos.",
+          "why": "Um pedido enviado ainda não é um clipe aprovado. Se houver erro, registre onde ele ocorre. Na segunda tentativa, simplifique uma única parte do pedido. Preserve os arquivos para comparar. A fila de geração fica fora do tempo de leitura.",
+          "practice": "Compare uma tentativa com câmera parada e outra com aproximação lenta, somente se couber no teto.",
+          "caution": "Se o limite de tentativas acabar, deixe o plano pendente em vez de aceitar um defeito que muda o produto."
+        },
+        {
+          "title": "Continuidade dentro e entre os planos",
+          "concept": "Confira primeiro cada clipe inteiro. Procure partes que aparecem ou desaparecem, textura que pulsa e movimentos sem sentido. Depois compare os clipes lado a lado ou em sequência. Observe se luz, cor e objeto continuam coerentes. Um erro de forma não deve ser escondido apenas com uma transição.",
+          "why": "A ilustração mostra uma segunda alça no quadro central. Esse defeito foi desenhado para ensinar a revisão. No seu arquivo, anote o segundo aproximado do problema. Uma marca concreta ajuda a escolher entre cortar, refazer ou substituir.",
+          "practice": "Pause um clipe em três momentos e anote uma diferença real ou registre que não encontrou diferença.",
+          "caution": "Uma revisão por amostragem pode perder defeitos. Reproduza todo o trecho que será utilizado."
+        },
+        {
+          "title": "Pasta organizada vira montagem mais simples",
+          "concept": "Na continuação, antes da montagem, produza os planos restantes com as imagens do storyboard. Você pode fotografar o produto, o lanche e o espaço ou gerar imagens revisadas. Para gerar, descreva assunto, enquadramento, luz e estilo; confira a ficha de continuidade antes de animar. Salve os arquivos aprovados em uma pasta separada.",
+          "why": "Use nomes em ordem: 01-xicara, 02-lanche, 03-ambiente e 04-convite. Guarde também as imagens iniciais e os pedidos. A montagem fica mais simples quando os arquivos escolhidos estão separados das tentativas descartadas.",
+          "practice": "Continuação do projeto antes da aula10: reserve 20–40 minutos de trabalho, além das filas, para cada rodada restante. Fotografe ou gere as imagens dos planos02–04, confira as características fixas e anime uma ação simples como na aula8. Assista aos resultados e salve os aprovados. Só avance à montagem quando os quatro planos tiverem trechos utilizáveis. Respeite o teto; se faltar um plano, retome depois.",
+          "caution": "Produzir os demais clipes pode levar mais tempo que esta aula; mantenha as pendências visíveis."
+        }
+      ]
+    },
+    {
+      "title": "Montagem, voz e entrega",
+      "promise": "Organize os clipes, grave uma fala clara e revise o arquivo final antes de publicar.",
+      "topics": [
+        {
+          "title": "Linha do tempo é a ordem dos arquivos",
+          "concept": "No CapCut, crie um projeto e use Importar ou Import para adicionar os clipes aprovados. Coloque-os na linha do tempo: a faixa onde os arquivos aparecem em sequência. Arraste-os para a ordem do storyboard. Defina a proporção vertical 9:16 e confira o recorte de cada plano.",
+          "why": "O projeto editável guarda suas decisões; ele ainda não é o vídeo final. Não mova nem apague os arquivos originais enquanto estiver editando. No celular, o caminho começa em Novo projeto e na seleção dos arquivos. Os rótulos variam por versão.",
+          "practice": "Crie uma montagem de teste com dois clipes antes de organizar o projeto completo.",
+          "caution": "Se a ferramenta pedir um recurso pago, remova esse recurso e mantenha cortes simples."
+        },
+        {
+          "title": "Cortar é escolher o trecho que comunica",
+          "concept": "Selecione um clipe e arraste sua borda para reduzir a duração. Para retirar um trecho no meio, posicione o marcador, use Dividir e selecione a parte a excluir. Reproduza antes e depois de cada corte. Comece sem transições: o corte direto deixa ver se a ordem funciona.",
+          "why": "Ajuste a sequência para quinze a vinte segundos. Se a cena exige mais tempo para entender, reduza uma repetição em outro plano. Não acelere tudo automaticamente. O convite final precisa permanecer tempo suficiente para ser lido.",
+          "practice": "Faça duas versões da ordem dos planos e compare qual apresenta a ideia com menos esforço.",
+          "caution": "Um corte que elimina a alça também pode eliminar informação importante. Confira o enquadramento após qualquer ajuste."
+        },
+        {
+          "title": "A fala precisa caber e ser ouvida",
+          "concept": "Grave as quatro linhas em um lugar silencioso. Use o gravador do celular ou a função de voz do editor. Faça uma pequena pausa entre as frases. Ouça a gravação antes de importar. Voz distante: aproxime o aparelho. Voz abafada: deixe o microfone livre e procure um local silencioso. Voz estourada: afaste um pouco ou fale suavemente. Regrave e ouça.",
+          "why": "Coloque a narração na linha do tempo e alinhe cada frase à cena correspondente. Se o áudio dos clipes competir, selecione cada clipe e reduza Volume ou silencie-o. Se a fala não cabe, corte palavras ou ajuste as pausas. Neste primeiro projeto, música é opcional. A voz deve continuar compreensível no alto-falante do celular.",
+          "practice": "Grave duas versões com ritmos diferentes e escolha a que soa natural.",
+          "caution": "Use sua própria voz ou uma voz autorizada. Não atribua um depoimento fictício a uma pessoa real."
+        },
+        {
+          "title": "Legenda automática precisa de revisão",
+          "concept": "No CapCut, procure Legendas ou Captions e Legendas automáticas. Escolha o áudio e o idioma da fala, depois gere. Reproduza e corrija palavras, pontuação e tempo de entrada. Se o recurso não estiver disponível, adicione textos curtos manualmente e ajuste suas durações.",
+          "why": "Confira principalmente nomes próprios e a frase de convite. Posicione o texto sem cobrir o produto. Use contraste suficiente e poucas palavras por linha. A leitura no celular é a conferência mais importante; a prévia grande pode esconder dificuldades.",
+          "practice": "Assista sem som e veja se consegue acompanhar a mensagem pelas legendas.",
+          "caution": "A disponibilidade dos recursos pode mudar conforme plataforma, região, versão e conta."
+        },
+        {
+          "title": "Exportar cria o arquivo que será entregue",
+          "concept": "No CapCut, use Exportar e confira duração, orientação e opções disponíveis. Para este exercício, escolha MP4 e resolução 1080p quando oferecidos. Mantenha a taxa de quadros compatível com o projeto. Taxa de quadros é a quantidade de imagens exibidas por segundo; aumentá-la não corrige defeitos de geração.",
+          "why": "Abra o arquivo fora do editor. Assista inteiro, com som e sem som. Confira a primeira imagem, as transições, a voz, as legendas e o convite final. Se corrigir o projeto, exporte uma nova versão e repita a conferência.",
+          "practice": "Envie uma cópia para seu próprio celular e veja se texto e áudio continuam claros.",
+          "caution": "Se uma opção de exportação exigir pagamento, escolha uma disponível e registre a resolução realmente usada."
+        },
+        {
+          "title": "Entregar inclui explicar o que foi feito",
+          "concept": "Guarde o vídeo, as três a cinco imagens iniciais e uma frase de aprendizado. No caso fictício, identifique a peça como estudo de cafeteria imaginária com cenas geradas por IA. Para um negócio real, confirme dados e autorizações. Publique apenas quando a revisão não deixar pendências importantes.",
+          "why": "Você pode entregar por um link privado ou publicar no canal escolhido. Registre a modalidade e o endereço do arquivo ou postagem. No envio, revise a prévia e use a indicação de conteúdo gerado por IA quando a plataforma solicitar.",
+          "practice": "Peça a uma pessoa que diga qual mensagem entendeu, sem explicar antes.",
+          "caution": "Não chame um arquivo apenas exportado de publicado. São etapas diferentes e devem ser registradas separadamente."
+        }
+      ]
+    }
+  ]
+}
