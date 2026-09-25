@@ -53,3 +53,7 @@ As três aulas atingem o corte 9 para Caio. Não encontrei trava impeditiva nas 
 Nas capturas inspecionadas, texto, fichas e ações estão legíveis, sem transbordamento horizontal. As ilustrações são apresentadas como didáticas criadas no Codex; o storyboard informa que movimento e duração precisam ser escritos e não são demonstrados pela fotografia. Isso preserva a distinção entre planejamento e execução.
 
 Não executei geração, edição, botões ou chamadas aos serviços; não validei a documentação externa nem medi o tempo com pessoa real. As notas avaliam compreensão e possibilidade de fazer as práticas, não fidelidade de geradores nem aprendizagem humana medida.
+
+## Conferência final dos refinamentos
+
+Em 2026-09-25 confirmei no HTML das aulas 4 e 6: instrução de galeria → Editar/Recortar → formato vertical → salvar como cópia, preservando original; permissão explícita para plano sem ação com câmera parada; leitura do convite em voz alta no tempo do último quadro. As sugestões operacionais foram incorporadas. Notas mantidas: aula 4 = 9; aula 5 = 9,2; aula 6 = 9. As capturas consultadas continuam sendo as anteriores; esta conferência final foi textual.
