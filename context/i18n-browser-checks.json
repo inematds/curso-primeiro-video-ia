@@ -1,0 +1,38 @@
+[
+  {
+    "locale": "pt",
+    "lessons": 12,
+    "exportImport": true,
+    "crossLanguageRejected": true,
+    "languageLinks": true,
+    "mobile": true,
+    "desktopThemes": true,
+    "images": true,
+    "support": [],
+    "errors": []
+  },
+  {
+    "locale": "en",
+    "lessons": 12,
+    "exportImport": true,
+    "crossLanguageRejected": true,
+    "languageLinks": true,
+    "mobile": true,
+    "desktopThemes": true,
+    "images": true,
+    "support": [],
+    "errors": []
+  },
+  {
+    "locale": "es",
+    "lessons": 12,
+    "exportImport": true,
+    "crossLanguageRejected": true,
+    "languageLinks": true,
+    "mobile": true,
+    "desktopThemes": true,
+    "images": true,
+    "support": [],
+    "errors": []
+  }
+]
